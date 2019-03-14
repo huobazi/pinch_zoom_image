@@ -1,4 +1,4 @@
-name: pinch_zoom_image_example
+name: pos_pinch_zoom_image_example
 description: Demonstrates how to use the pinch_zoom_image plugin.
 publish_to: 'none'
 
@@ -12,7 +12,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  pinch_zoom_image:
+  pos_pinch_zoom_image:
     path: ../
   cached_network_image: ^0.5.0
 
