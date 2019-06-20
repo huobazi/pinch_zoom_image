@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pos_pinch_zoom_image/pinch_zoom_image.dart';
+import 'package:pos_pinch_zoom_image/pos_pinch_zoom_image.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 
 void main() => runApp(new MyApp());
